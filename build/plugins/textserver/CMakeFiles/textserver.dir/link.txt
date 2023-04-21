@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libtextserver.so -o libtextserver.so CMakeFiles/textserver.dir/textserver.cpp.o  -Wl,-rpath,/home/josyula/git/openrave/build/src/libopenrave:: ../../src/libopenrave/libopenrave0.53.so.0.53.1 ../../src/libboost_assertion_failed.a 

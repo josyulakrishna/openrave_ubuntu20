@@ -1,0 +1,2 @@
+/usr/bin/ar qc libboost_assertion_failed.a  CMakeFiles/boost_assertion_failed.dir/boost_assertion_failed.cpp.o
+/usr/bin/ranlib libboost_assertion_failed.a

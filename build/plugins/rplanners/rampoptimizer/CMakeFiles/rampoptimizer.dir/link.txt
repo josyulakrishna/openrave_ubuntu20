@@ -1,0 +1,2 @@
+/usr/bin/ar qc librampoptimizer.a  CMakeFiles/rampoptimizer.dir/paraboliccommon.cpp.o CMakeFiles/rampoptimizer.dir/ramp.cpp.o CMakeFiles/rampoptimizer.dir/interpolator.cpp.o CMakeFiles/rampoptimizer.dir/feasibilitychecker.cpp.o CMakeFiles/rampoptimizer.dir/parabolicchecker.cpp.o
+/usr/bin/ranlib librampoptimizer.a
